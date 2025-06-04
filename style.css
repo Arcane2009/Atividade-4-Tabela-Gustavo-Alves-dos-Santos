@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tabela{
+    text-align: center;
+    margin-left: 600px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-image: url(download.jfif);
+    color: azure;
+}
+
+.titulo__tabela{
+    margin-left: 770px;
+    color: red;
+}
+
+tr:hover{
+    color: aqua;
+}
+.video{
+    margin-left: 750px;
+}
+body{
+    background-image: url(xt-removebg-preview\ \(2\).png);
+    background-repeat: repeat;
+    overflow: auto;
+}
+.guerreiro{
+    border-radius: 50px;
+    margin-left: 730px;
+    
+}
